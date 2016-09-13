@@ -1,0 +1,2 @@
+kunde Mickey Maus 0.000000 0.000000 1
+kunde Donald Duch 0.000000 0.000000 2

@@ -1,0 +1,4 @@
+kunde Esme Ralda 0.09 0.99 1 1
+kunde Mickey Maus 0.99 14.00 2 0
+verbindungen 1 1:25 1
+kunde Hans Wurst 0.10 9.99 3 1
